@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Reporisoty for Data Science MOOC
+Repository for Data Science MOOC
